@@ -1,31 +1,16 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Site de Eloisa Carvalho - Florista
+Este projeto é uma página web desenvolvida em HTML, CSS e JavaScript para Eloisa Carvalho, uma florista apaixonada, formada pelo SENAC. O site foi criado com o objetivo de compartilhar tutoriais de "faça você mesmo" para arranjos florais, além de histórias, dicas sazonais e curiosidades sobre flores.
 
-
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Funcionalidades e Seções Principais
+Página Inicial: Boas-vindas aos visitantes, com uma breve introdução e destaques das principais seções.
+Blog "Faça Você Mesmo": Tutoriais e dicas práticas para quem deseja criar seus próprios arranjos florais.
+História das Flores e Guia Sazonal: Conteúdo informativo sobre a importância histórica das flores e as melhores épocas de floração.
+Parcerias com Floricultores: Lista e contato dos parceiros que cultivam as flores utilizadas nos arranjos.
+Galeria: Imagens de arranjos e composições feitas por Eloisa, categorizadas por estilo.
+Contato e Redes Sociais: Formulário de contato e links para acompanhar o trabalho da florista nas redes sociais.
+Tecnologias Utilizadas
+HTML5 para a estrutura do conteúdo e organização das seções.
+CSS3 para estilização e responsividade, utilizando técnicas modernas de design para garantir um layout atraente e acessível.
+JavaScript para interatividade, incluindo animações e efeitos de transição, aprimorando a experiência do usuário.
+Objetivo do Projeto
+Este site foi projetado para ser visualmente agradável e intuitivo, com o intuito de inspirar e educar o público sobre o mundo da floricultura. É uma plataforma onde Eloisa pode compartilhar seu conhecimento e criatividade, aproximando os visitantes do universo das flores.
