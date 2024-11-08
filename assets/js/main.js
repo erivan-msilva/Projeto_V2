@@ -143,3 +143,8 @@
 			});
 
 })(jQuery);
+
+function toggleExpand() {
+	const collapseContent = document.getElementById('collapseContent');
+	collapseContent.style.display = collapseContent.style.display === 'block' ? 'none' : 'block';
+}
