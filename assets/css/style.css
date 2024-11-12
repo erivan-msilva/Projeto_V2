@@ -2426,8 +2426,13 @@ input, select, textarea {
 		object-fit: cover;
 		border-top: 1px solid #ddd;
 		position: relative;
+<<<<<<< HEAD:assets/css/style.css
 		
 		
+=======
+		width: 100%;
+		height: 50%;
+>>>>>>> 5f220d0104bd7aca3fb53de17048bf2a372d90ef:assets/css/style1.css
 =======
 		width: 100%;
 		height: 50%;

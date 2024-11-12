@@ -294,5 +294,9 @@
 function toggleExpand() {
 	const collapseContent = document.getElementById('collapseContent');
 	collapseContent.style.display = collapseContent.style.display === 'block' ? 'none' : 'block';
+<<<<<<< HEAD
+}
+>>>>>>> 5f220d0104bd7aca3fb53de17048bf2a372d90ef
+=======
 }
 >>>>>>> 5f220d0104bd7aca3fb53de17048bf2a372d90ef
